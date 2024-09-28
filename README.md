@@ -1,5 +1,5 @@
-# SUPERSTORE-SALES
-PROJECT DESCRIPTION ON SUPERSTORE
+
+# PROJECT DESCRIPTION ON SUPERSTORE
 Project Overview
 This dataset superstore comprises of customers essential which focus on understanding the store’s sales performance across different years, product, categories, market, orders and quantity and also countries with a specific emphasis on profit and loss calculations with the aim of uncovering patterns and analyzing these dataset for easy understanding and visualization.
 Data Source

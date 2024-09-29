@@ -1,19 +1,19 @@
 
 # PROJECT DESCRIPTION ON SUPERSTORE
 
-##Project Overview
+Project Overview
 
 
 This dataset superstore comprises of customers essential which focus on understanding the store’s sales performance across different years, product, categories, market, orders and quantity and also countries with a specific emphasis on profit and loss calculations with the aim of uncovering patterns and analyzing these dataset for easy understanding and visualization.
 
 
-##Data Source
+Data Source
 
 
 Project work from Attenyi Academy “SUPERSTORE CSV” File comprising a detailed customers essential for store sales.
 
 
-##Tools Used
+Tools Used
 
 
 Microsoft excel / Power query: To clean and analyses the data
@@ -22,7 +22,7 @@ Structured query language (SQL) : To directly query and manipulate the data, and
 
 PowerBi Desktop: To visualize the outcome.
 
-##POSSIBLE QUESTIONS GENERATED 
+POSSIBLE QUESTIONS GENERATED 
 
 
 + 	Who are our top 8 customers by sales?
@@ -41,10 +41,10 @@ PowerBi Desktop: To visualize the outcome.
 
 +	What the top 5 customers regional performance in cities by sales?
 
-##QUESTIONS ANSWERED USING SQL
+QUESTIONS ANSWERED USING SQL
 
 
-##VISUALIZATION IN POWER BI
+VISUALIZATION IN POWER BI
 
 After completing data cleaning and analysis in MySQL, the results were exported to CSV files
 
@@ -52,7 +52,7 @@ These CSV files served as the basis for creating a visually appealing dashboard 
 
 The purpose of this Power BI dashboard was to provide a better understanding of the outcomes derived from the SQL data analysis.
 
-##FINDINGS FROM THE ANALYSIS
+FINDINGS FROM THE ANALYSIS
 
 +	The top 8 customers of the company include; Tom Ashbrook  having over 14.55% sales, Tamara Chand 13.46% sales, Greg Tran 12.77% sales, Christopher Conant 12..64% sales, Sean Miler 12.64% sales, Bart Walters 11.61% sales, Natalie Fritzler 11.42% sales, and Fred Hopkins 10.02%
 
@@ -70,7 +70,7 @@ The purpose of this Power BI dashboard was to provide a better understanding of 
 
 +	 The top 5 customers regional performance by city includes; New York City, Los Angeles, Manila, Seattle and San Francisco.
 
-##LIMITATIONS
+LIMITATIONS
 
 •	Exclusion of special characters in state column and other columns: During the data analysis process, a lot of special character was identified with in the state column and few on some other column. These records were excluded from the analysis
 

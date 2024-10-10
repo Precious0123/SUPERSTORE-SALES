@@ -64,7 +64,7 @@ Project work from Attenyi Academy “SUPERSTORE CSV” File comprising a detaile
 
 ## VISUALIZATION IN POWER BI
 
-After completing data cleaning and analysis in MySQL, the results were exported to CSV files
+After completing data cleaning and analysis in microsoft excel, the results were exported to CSV files
 
 These CSV files served as the basis for creating a visually appealing dashboard in Power BI.
 

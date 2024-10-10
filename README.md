@@ -3,19 +3,19 @@
 
 ## Table of contents
 
--[project overview](project-overview)
+-[project overview](#project-overview)
 
--[Data source](Data-source)
+-[Data source](#Data-source)
 
--[Tools used](Tools-used)
+-[Tools used](#Tools-used)
 
--[possible questions generated](possible-questions-generated)
+-[possible questions generated](#possible-questions-generated)
 
--[Visualization](Visualization)
+-[Visualization](#Visualization)
 
--[Findings](Findings)
+-[Findings](#Findings)
 
--[Limitations](Limitations)
+-[Limitations](#Limitations)
 
 
 
